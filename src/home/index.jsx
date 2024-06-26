@@ -57,7 +57,7 @@ function Home() {
               <AtomIcon className="h-8 w-8" />
 
               <h2 className="mt-4 text-xl font-bold text-black">
-                Write prompt for your form
+                Step 1
               </h2>
 
               <p className="mt-1 text-sm text-gray-600">
@@ -74,7 +74,7 @@ function Home() {
               <Edit className="h-8 w-8" />
 
               <h2 className="mt-4 text-xl font-bold text-black">
-                Edit Your form{" "}
+                Step 2
               </h2>
 
               <p className="mt-1 text-sm text-gray-600">
@@ -91,7 +91,7 @@ function Home() {
               <Share2 className="h-8 w-8" />
 
               <h2 className="mt-4 text-xl font-bold text-black">
-                Share & Start Accepting Responses
+                Step 3
               </h2>
 
               <p className="mt-1 text-sm text-gray-600">
